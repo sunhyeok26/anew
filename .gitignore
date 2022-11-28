@@ -6,8 +6,9 @@
 
 # nodejs node_modules
 node/**/node_modules
+node/**/package*.json
 node_modules
-
+node/config/pool.js
 # mongodb backup  / json
 mongodb/**/*.json
 mongodb/backup
