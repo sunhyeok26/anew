@@ -1,4 +1,5 @@
 # anew
+.git-credentials
 
 # environment files
 .env
@@ -9,3 +10,6 @@ node/**/node_modules
 # mongodb backup  / json
 mongodb/**/*.json
 mongodb/backup
+
+# python
+python/**/.venv
