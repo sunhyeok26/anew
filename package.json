@@ -1,0 +1,20 @@
+{
+  "name": "anew",
+  "version": "1.0.0",
+  "description": "dd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sunhyeok26/anew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunhyeok26/anew/issues"
+  },
+  "homepage": "https://github.com/sunhyeok26/anew#readme"
+}
