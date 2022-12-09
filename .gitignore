@@ -19,3 +19,6 @@ mongodb/backup
 
 # python
 python/**/.venv
+
+# react App
+react/**/node_modules
